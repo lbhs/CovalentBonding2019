@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/base.unity
+    guid: 4b250195835e0e54ab11fe92f65beeb5
+  - enabled: 1
+    path: Assets/Scenes/Covalent Bonding 1.unity
+    guid: 09b1aca86253d3d489b4071a28e93bfe
+  - enabled: 1
+    path: Assets/Scenes/Covalent Bonding 2.unity
+    guid: 90de9f7f50276144799d4b3126e4c8f0
+  m_configObjects: {}
