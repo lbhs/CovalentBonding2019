@@ -127,7 +127,7 @@ public class forces : MonoBehaviour
         if(Time.frameCount % 10 == 0)
         {
             ElectroPEforDisplay=(ElectroPE/1000)+2;
-            print(ElectroPEforDisplay);
+            //print(ElectroPEforDisplay);
         }
         }
         gameObject.GetComponent<main>().PEDisplay.GetComponent<Text>().text = "Potential Energy = "+Mathf.RoundToInt(ElectroPEforDisplay).ToString();
